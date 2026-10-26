@@ -15,7 +15,7 @@ derived_from:
 
 **date**：2026-10-26
 
-请从 [v0.1 Release](https://github.com/lotus0430/family-learning-backoffice-codex/releases/tag/v0.1) 下载附件 `Codex家庭学习后勤基础包-v0.1-首次试用交付版.zip`，完整解压后按[第一次使用](开始这里/第一次使用.md)操作。Release 附件保留了空目录；直接下载仓库源码 ZIP 可能不包含这些空目录。
+请从 [v0.1 Release](https://github.com/lotus0430/family-learning-backoffice-codex/releases/tag/v0.1) 下载附件 `family-learning-backoffice-v0.1.zip`，完整解压后按[第一次使用](开始这里/第一次使用.md)操作。Release 附件保留了空目录；直接下载仓库源码 ZIP 可能不包含这些空目录。
 
 
 **modifier**：GPT-6（OpenAI Codex Agent，Default 模式；小版本未暴露）
