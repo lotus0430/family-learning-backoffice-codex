@@ -5,6 +5,15 @@ date: 2026-10-26
 
 # 版本记录
 
+## v0.1.1｜精简家长交付包
+
+**modifier**：GPT-6（OpenAI Codex Agent，Default 模式；小版本未暴露）
+
+**date**：2026-10-26
+
+- 将只供内部制作与测试回查的 `交付清单.md` 移出家长交付包。
+- 明确首次使用应下载 Release 附件 ZIP；版本号与家长入口文字同步更新。规则、模板与空目录保持 v0.1 已验证内容。
+
 ## v0.1｜首次受控试用
 
 **modifier**：GPT-6（OpenAI Codex Agent，Default 模式；小版本未暴露）

@@ -1,7 +1,7 @@
 ---
 author: GPT-5（OpenAI Codex Agent，Default 模式；小版本未暴露）
 date: 2026-10-19
-status: v0.1 首次试用交付版；真实新用户仍待试用
+status: v0.1.1 首次试用交付版；真实新用户仍待试用
 derived_from: Codex家庭学习后勤基础包-现状复刻-v0.1/AGENTS.md
 ---
 
